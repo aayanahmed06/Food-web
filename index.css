@@ -1,0 +1,1430 @@
+.websiteBody{
+  margin: 0;
+}@media screen and (min-width:0px) and (max-width:1360px) {
+.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.iMac---1{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:720px;
+  min-width:200px;
+  max-width:1360px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.iMac---1-outer{
+  pointer-events:none;
+  z-index:28;
+}
+.Ellipse-2{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:262px;
+  width:1018px;
+  min-width:1018px;
+  height:491px;
+  margin-top:0px;
+  margin-bottom:229px;
+  min-height:491px;
+  content:url(assets/images/Ellipse_2.png);
+}
+.Ellipse-2-outer{
+  pointer-events:none;
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.lock{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:1156px;
+  width:24px;
+  min-width:24px;
+  height:24px;
+  margin-top:-693px;
+  margin-bottom:669px;
+  min-height:24px;
+  overflow:hidden;
+}
+.lock-outer{
+  pointer-events:none;
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:-1136px;
+  width:158px;
+  min-width:158px;
+  height:45px;
+  margin-top:550px;
+  margin-bottom:-571px;
+  min-height:45px;
+  background-color:rgba(62, 154, 0, 1);
+  border-radius:48px;
+}
+.Rectangle-1-outer{
+  pointer-events:none;
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.Vector{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:25%;
+  width:50%;
+  height:45.833333333333336%;
+  margin-top:4.166666666666667%;
+  content:url(assets/images/Vector.png);
+}
+.Vector-outer{
+  pointer-events:none;
+  z-index:34;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Vector-1{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:8.333333333333334%;
+  width:83.33333333333333%;
+  height:54.166666666666664%;
+  margin-top:41.666666666666664%;
+  content:url(assets/images/Vector_1.png);
+}
+.Vector-1-outer{
+  pointer-events:none;
+  z-index:33;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Breakfast{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:282px;
+  width:66px;
+  min-width:66px;
+  margin-top:-691px;
+  margin-bottom:670px;
+  min-height:21px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:14px;
+  line-height:21.33333396911621px;
+}
+.Breakfast-outer{
+  pointer-events:none;
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.Dinner{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:621px;
+  width:46px;
+  min-width:46px;
+  margin-top:-691px;
+  margin-bottom:670px;
+  min-height:21px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:14px;
+  line-height:21.33333396911621px;
+}
+.Dinner-outer{
+  pointer-events:none;
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.Lunch{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:446px;
+  width:42px;
+  min-width:42px;
+  margin-top:-691px;
+  margin-bottom:670px;
+  min-height:21px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:14px;
+  line-height:21.33333396911621px;
+}
+.Lunch-outer{
+  pointer-events:none;
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.Food-Hunt{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:145px;
+  width:92px;
+  min-width:92px;
+  margin-top:-690px;
+  margin-bottom:663px;
+  min-height:27px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:18px;
+  line-height:26.666667938232422px;
+}
+.Food-Hunt-outer{
+  pointer-events:none;
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.Ellipse-1{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:100px;
+  width:20px;
+  min-width:20px;
+  height:15px;
+  margin-top:-684px;
+  margin-bottom:669px;
+  min-height:15px;
+  content:url(assets/images/Ellipse_1.png);
+}
+.Ellipse-1-outer{
+  pointer-events:none;
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.Text{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:100px;
+  width:5px;
+  min-width:0px;
+  margin-top:-684px;
+  margin-bottom:663px;
+  min-height:21px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:500;
+  font-size:18px;
+  line-height:21.33333396911621px;
+}
+.Text-outer{
+  pointer-events:none;
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.Delicious{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:26px;
+  width:198px;
+  min-width:198px;
+  margin-top:-420px;
+  margin-bottom:364px;
+  min-height:56px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(62, 154, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:500;
+  font-size:48px;
+  line-height:57.333335876464844px;
+}
+.Delicious-outer{
+  pointer-events:none;
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.Quench-the-hunger{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:24px;
+  width:309px;
+  min-width:309px;
+  margin-top:-337px;
+  margin-bottom:295px;
+  min-height:42px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:500;
+  font-size:36px;
+  line-height:44px;
+}
+.Quench-the-hunger-outer{
+  pointer-events:none;
+  z-index:42;
+  position:relative;
+  display:flex;
+}
+.Deserunt-quis-ea-vel{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:30px;
+  width:328px;
+  min-width:328px;
+  margin-top:-288px;
+  margin-bottom:178px;
+  min-height:110px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.56px;
+  line-height:17.33333396911621px;
+}
+.Deserunt-quis-ea-vel-outer{
+  pointer-events:none;
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.Ellipse-6{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  margin-left:1140px;
+  width:40px;
+  min-width:40px;
+  height:40px;
+  margin-top:-227px;
+  margin-bottom:187px;
+  min-height:40px;
+  content:url(assets/images/Ellipse_6.png);
+}
+.Ellipse-6-outer{
+  pointer-events:none;
+  z-index:47;
+  position:relative;
+  display:flex;
+}
+.Ellipse-5{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:548px;
+  width:40px;
+  min-width:40px;
+  height:40px;
+  margin-top:-219px;
+  margin-bottom:179px;
+  min-height:40px;
+  content:url(assets/images/Ellipse_5.png);
+}
+.Ellipse-5-outer{
+  pointer-events:none;
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.Arrow-2{
+  position:relative;
+  z-index:51;
+  pointer-events:none;
+  margin-left:1160px;
+  width:0.17px;
+  min-width:0.17px;
+  height:19.85px;
+  margin-top:-218px;
+  margin-bottom:198.14999999999998px;
+  min-height:19.85px;
+  content:url(assets/images/Arrow_2.png);
+}
+.Arrow-2-outer{
+  pointer-events:none;
+  z-index:51;
+  position:relative;
+  display:flex;
+}
+.Rectangle-3{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:1152px;
+  width:16px;
+  min-width:16px;
+  height:16px;
+  margin-top:-215px;
+  margin-bottom:199px;
+  min-height:16px;
+  content:url(assets/images/Rectangle_3.png);
+}
+.Rectangle-3-outer{
+  pointer-events:none;
+  z-index:49;
+  position:relative;
+  display:flex;
+}
+.Arrow-1{
+  position:relative;
+  z-index:50;
+  pointer-events:none;
+  margin-left:568px;
+  width:0.17px;
+  min-width:0.17px;
+  height:19.85px;
+  margin-top:-210px;
+  margin-bottom:190.14999999999998px;
+  min-height:19.85px;
+  content:url(assets/images/Arrow_1.png);
+}
+.Arrow-1-outer{
+  pointer-events:none;
+  z-index:50;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:560px;
+  width:16px;
+  min-width:16px;
+  height:16px;
+  margin-top:-207px;
+  margin-bottom:191px;
+  min-height:16px;
+  content:url(assets/images/Rectangle_2.png);
+}
+.Rectangle-2-outer{
+  pointer-events:none;
+  z-index:48;
+  position:relative;
+  display:flex;
+}
+.button{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:16px;
+  width:168px;
+  min-width:168px;
+  height:59px;
+  margin-top:-151px;
+  margin-bottom:92px;
+  min-height:59px;
+}
+.button-outer{
+  pointer-events:none;
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.Munch-Now{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:0px;
+  width:168px;
+  min-width:168px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:59px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:700;
+  font-size:14px;
+  letter-spacing:0.56px;
+  line-height:17.33333396911621px;
+}
+.Munch-Now-outer{
+  pointer-events:none;
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2-1{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:4px;
+  width:158px;
+  min-width:158px;
+  height:45px;
+  margin-top:-51px;
+  margin-bottom:6px;
+  min-height:45px;
+  background-color:rgba(62, 154, 0, 1);
+  border-radius:48px;
+}
+.Rectangle-2-1-outer{
+  pointer-events:none;
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.E{
+  display: none;
+}
+.E-outer{
+  display: none;
+}
+.Mask-group{
+  display: none;
+}
+.Mask-group-outer{
+  display: none;
+}
+.Ellipse-2-1{
+  display: none;
+}
+.Ellipse-2-1-outer{
+  display: none;
+}
+.lock-1{
+  display: none;
+}
+.lock-1-outer{
+  display: none;
+}
+.Vector-2{
+  display: none;
+}
+.Vector-2-outer{
+  display: none;
+}
+.Vector-3{
+  display: none;
+}
+.Vector-3-outer{
+  display: none;
+}
+.Breakfast-1{
+  display: none;
+}
+.Breakfast-1-outer{
+  display: none;
+}
+.Dinner-1{
+  display: none;
+}
+.Dinner-1-outer{
+  display: none;
+}
+.Lunch-1{
+  display: none;
+}
+.Lunch-1-outer{
+  display: none;
+}
+.Food-Hunt-1{
+  display: none;
+}
+.Food-Hunt-1-outer{
+  display: none;
+}
+.Ellipse-1-1{
+  display: none;
+}
+.Ellipse-1-1-outer{
+  display: none;
+}
+.Text-1{
+  display: none;
+}
+.Text-1-outer{
+  display: none;
+}
+.image-1-3{
+  display: none;
+}
+.image-1-3-outer{
+  display: none;
+}
+.Delicious-1{
+  display: none;
+}
+.Delicious-1-outer{
+  display: none;
+}
+.Quench-the-hunger-1{
+  display: none;
+}
+.Quench-the-hunger-1-outer{
+  display: none;
+}
+.Deserunt-quis-ea-vel-1{
+  display: none;
+}
+.Deserunt-quis-ea-vel-1-outer{
+  display: none;
+}
+.Ellipse-6-1{
+  display: none;
+}
+.Ellipse-6-1-outer{
+  display: none;
+}
+.Ellipse-5-1{
+  display: none;
+}
+.Ellipse-5-1-outer{
+  display: none;
+}
+.Arrow-2-1{
+  display: none;
+}
+.Arrow-2-1-outer{
+  display: none;
+}
+.Rectangle-3-1{
+  display: none;
+}
+.Rectangle-3-1-outer{
+  display: none;
+}
+.Arrow-1-1{
+  display: none;
+}
+.Arrow-1-1-outer{
+  display: none;
+}
+.Rectangle-2-2{
+  display: none;
+}
+.Rectangle-2-2-outer{
+  display: none;
+}
+.button-1{
+  display: none;
+}
+.button-1-outer{
+  display: none;
+}
+.Munch-Now-1{
+  display: none;
+}
+.Munch-Now-1-outer{
+  display: none;
+}
+.Rectangle-1-1{
+  display: none;
+}
+.Rectangle-1-1-outer{
+  display: none;
+}
+.Rectangle-2-3{
+  display: none;
+}
+.Rectangle-2-3-outer{
+  display: none;
+}
+}
+      
+@media screen and (min-width:1360px) {
+.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.iMac---1{
+  display: none;
+}
+.iMac---1-outer{
+  display: none;
+}
+.Ellipse-2{
+  display: none;
+}
+.Ellipse-2-outer{
+  display: none;
+}
+.lock{
+  display: none;
+}
+.lock-outer{
+  display: none;
+}
+.Rectangle-1{
+  display: none;
+}
+.Rectangle-1-outer{
+  display: none;
+}
+.Vector{
+  display: none;
+}
+.Vector-outer{
+  display: none;
+}
+.Vector-1{
+  display: none;
+}
+.Vector-1-outer{
+  display: none;
+}
+.Breakfast{
+  display: none;
+}
+.Breakfast-outer{
+  display: none;
+}
+.Dinner{
+  display: none;
+}
+.Dinner-outer{
+  display: none;
+}
+.Lunch{
+  display: none;
+}
+.Lunch-outer{
+  display: none;
+}
+.Food-Hunt{
+  display: none;
+}
+.Food-Hunt-outer{
+  display: none;
+}
+.Ellipse-1{
+  display: none;
+}
+.Ellipse-1-outer{
+  display: none;
+}
+.Text{
+  display: none;
+}
+.Text-outer{
+  display: none;
+}
+.Delicious{
+  display: none;
+}
+.Delicious-outer{
+  display: none;
+}
+.Quench-the-hunger{
+  display: none;
+}
+.Quench-the-hunger-outer{
+  display: none;
+}
+.Deserunt-quis-ea-vel{
+  display: none;
+}
+.Deserunt-quis-ea-vel-outer{
+  display: none;
+}
+.Ellipse-6{
+  display: none;
+}
+.Ellipse-6-outer{
+  display: none;
+}
+.Ellipse-5{
+  display: none;
+}
+.Ellipse-5-outer{
+  display: none;
+}
+.Arrow-2{
+  display: none;
+}
+.Arrow-2-outer{
+  display: none;
+}
+.Rectangle-3{
+  display: none;
+}
+.Rectangle-3-outer{
+  display: none;
+}
+.Arrow-1{
+  display: none;
+}
+.Arrow-1-outer{
+  display: none;
+}
+.Rectangle-2{
+  display: none;
+}
+.Rectangle-2-outer{
+  display: none;
+}
+.button{
+  display: none;
+}
+.button-outer{
+  display: none;
+}
+.Munch-Now{
+  display: none;
+}
+.Munch-Now-outer{
+  display: none;
+}
+.Rectangle-2-1{
+  display: none;
+}
+.Rectangle-2-1-outer{
+  display: none;
+}
+.E{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:720px;
+  min-width:1360px;
+  max-width:1440px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.E-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Mask-group{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:293px;
+  width:1147px;
+  min-width:1147px;
+  height:500px;
+  margin-top:0px;
+  margin-bottom:220px;
+  min-height:500px;
+  content:url(assets/images/Mask_group.png);
+}
+.Mask-group-outer{
+  pointer-events:none;
+  z-index:5;
+  position:relative;
+  display:flex;
+}
+.Ellipse-2-1{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:275px;
+  width:1165px;
+  min-width:1165px;
+  height:491px;
+  margin-top:-720px;
+  margin-bottom:229px;
+  min-height:491px;
+  content:url(assets/images/Ellipse_2_1.png);
+}
+.Ellipse-2-1-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.lock-1{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:1303px;
+  width:24px;
+  min-width:24px;
+  height:24px;
+  margin-top:-693px;
+  margin-bottom:669px;
+  min-height:24px;
+  overflow:hidden;
+}
+.lock-1-outer{
+  pointer-events:none;
+  z-index:7;
+  position:relative;
+  display:flex;
+}
+.Vector-2{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:25%;
+  width:50%;
+  height:45.833333333333336%;
+  margin-top:4.166666666666667%;
+  content:url(assets/images/Vector_2.png);
+}
+.Vector-2-outer{
+  pointer-events:none;
+  z-index:9;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Vector-3{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:8.333333333333334%;
+  width:83.33333333333333%;
+  height:54.166666666666664%;
+  margin-top:41.666666666666664%;
+  content:url(assets/images/Vector_3.png);
+}
+.Vector-3-outer{
+  pointer-events:none;
+  z-index:8;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Breakfast-1{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:309px;
+  width:66px;
+  min-width:66px;
+  margin-top:-691px;
+  margin-bottom:670px;
+  min-height:21px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:14px;
+  line-height:21.33333396911621px;
+}
+.Breakfast-1-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Dinner-1{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:688px;
+  width:46px;
+  min-width:46px;
+  margin-top:-691px;
+  margin-bottom:670px;
+  min-height:21px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:14px;
+  line-height:21.33333396911621px;
+}
+.Dinner-1-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Lunch-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:486px;
+  width:42px;
+  min-width:42px;
+  margin-top:-691px;
+  margin-bottom:670px;
+  min-height:21px;
+  text-align:right;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:400;
+  font-size:14px;
+  line-height:21.33333396911621px;
+}
+.Lunch-1-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Food-Hunt-1{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:145px;
+  width:92px;
+  min-width:92px;
+  margin-top:-690px;
+  margin-bottom:663px;
+  min-height:27px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Poppins;
+  font-weight:500;
+  font-size:18px;
+  line-height:26.666667938232422px;
+}
+.Food-Hunt-1-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Ellipse-1-1{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:100px;
+  width:20px;
+  min-width:20px;
+  height:15px;
+  margin-top:-684px;
+  margin-bottom:669px;
+  min-height:15px;
+  content:url(assets/images/Ellipse_1_1.png);
+}
+.Ellipse-1-1-outer{
+  pointer-events:none;
+  z-index:14;
+  position:relative;
+  display:flex;
+}
+.Text-1{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:100px;
+  width:5px;
+  min-width:0px;
+  margin-top:-684px;
+  margin-bottom:663px;
+  min-height:21px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:500;
+  font-size:18px;
+  line-height:21.33333396911621px;
+}
+.Text-1-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.image-1-3{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:777px;
+  width:353.56px;
+  min-width:353.56px;
+  height:352.24px;
+  margin-top:-420px;
+  margin-bottom:67.75999999999999px;
+  min-height:352.24px;
+  content:url(assets/images/image_1_3.png);
+}
+.image-1-3-outer{
+  pointer-events:none;
+  z-index:27;
+  position:relative;
+  display:flex;
+}
+.Delicious-1{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:26px;
+  width:198px;
+  min-width:198px;
+  margin-top:-420px;
+  margin-bottom:364px;
+  min-height:56px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(215, 115, 55, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:500;
+  font-size:48px;
+  line-height:57.333335876464844px;
+}
+.Delicious-1-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Quench-the-hunger-1{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:24px;
+  width:309px;
+  min-width:309px;
+  margin-top:-337px;
+  margin-bottom:295px;
+  min-height:42px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(51, 51, 51, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:500;
+  font-size:36px;
+  line-height:44px;
+}
+.Quench-the-hunger-1-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Deserunt-quis-ea-vel-1{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:30px;
+  width:328px;
+  min-width:328px;
+  margin-top:-288px;
+  margin-bottom:178px;
+  min-height:110px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.56px;
+  line-height:17.33333396911621px;
+}
+.Deserunt-quis-ea-vel-1-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Ellipse-6-1{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:1287px;
+  width:40px;
+  min-width:40px;
+  height:40px;
+  margin-top:-227px;
+  margin-bottom:187px;
+  min-height:40px;
+  content:url(assets/images/Ellipse_6_1.png);
+}
+.Ellipse-6-1-outer{
+  pointer-events:none;
+  z-index:22;
+  position:relative;
+  display:flex;
+}
+.Ellipse-5-1{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:615px;
+  width:40px;
+  min-width:40px;
+  height:40px;
+  margin-top:-219px;
+  margin-bottom:179px;
+  min-height:40px;
+  content:url(assets/images/Ellipse_5_1.png);
+}
+.Ellipse-5-1-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Arrow-2-1{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:1307px;
+  width:0.17px;
+  min-width:0.17px;
+  height:19.85px;
+  margin-top:-218px;
+  margin-bottom:198.14999999999998px;
+  min-height:19.85px;
+  content:url(assets/images/Arrow_2_1.png);
+}
+.Arrow-2-1-outer{
+  pointer-events:none;
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.Rectangle-3-1{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:1299px;
+  width:16px;
+  min-width:16px;
+  height:16px;
+  margin-top:-215px;
+  margin-bottom:199px;
+  min-height:16px;
+  content:url(assets/images/Rectangle_3_1.png);
+}
+.Rectangle-3-1-outer{
+  pointer-events:none;
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.Arrow-1-1{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:635px;
+  width:0.17px;
+  min-width:0.17px;
+  height:19.85px;
+  margin-top:-210px;
+  margin-bottom:190.14999999999998px;
+  min-height:19.85px;
+  content:url(assets/images/Arrow_1_1.png);
+}
+.Arrow-1-1-outer{
+  pointer-events:none;
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2-2{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:627px;
+  width:16px;
+  min-width:16px;
+  height:16px;
+  margin-top:-207px;
+  margin-bottom:191px;
+  min-height:16px;
+  content:url(assets/images/Rectangle_2_1.png);
+}
+.Rectangle-2-2-outer{
+  pointer-events:none;
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.button-1{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:16px;
+  width:168px;
+  min-width:168px;
+  height:59px;
+  margin-top:-151px;
+  margin-bottom:92px;
+  min-height:59px;
+}
+.button-1-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Munch-Now-1{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:0px;
+  width:168px;
+  min-width:168px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:59px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Roboto;
+  font-weight:700;
+  font-size:14px;
+  letter-spacing:0.56px;
+  line-height:17.33333396911621px;
+}
+.Munch-Now-1-outer{
+  pointer-events:none;
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.Rectangle-1-1{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:4px;
+  width:158px;
+  min-width:158px;
+  height:45px;
+  margin-top:-51px;
+  margin-bottom:6px;
+  min-height:45px;
+  background-color:rgba(215, 115, 55, 1);
+  border-radius:48px;
+}
+.Rectangle-1-1-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.Rectangle-2-3{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:4px;
+  width:158px;
+  min-width:158px;
+  height:45px;
+  margin-top:-51px;
+  margin-bottom:6px;
+  min-height:45px;
+  background-color:rgba(215, 115, 55, 1);
+  border-radius:48px;
+}
+.Rectangle-2-3-outer{
+  pointer-events:none;
+  z-index:18;
+  position:relative;
+  display:flex;
+}
+}
+      
